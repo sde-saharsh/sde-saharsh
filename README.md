@@ -5,14 +5,6 @@
 
 <img align="right" src="https://i.imgur.com/A6bWGFl.gif" width="250" />
 
-🌱 **Currently Learning:** MERN Stack (MongoDB, Express, React, Node.js)  
-🚀 **Projects:**  
-- **Trendu Repo** (Full-Stack Web App)  
-- **Floppy Fish** (Flappy Bird Spinoff)  
-- **Homie's Kitchen** (Recipe Web App)  
-
-🎯 **Goals:** Master full-stack development & contribute to open-source.  
-
 ---
 
 ### 🚀 **Tech Stack**
