@@ -3,22 +3,40 @@
 
 ---
 
-### 🔧 **Tech Stack**
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+<img align="right" src="https://i.imgur.com/A6bWGFl.gif" width="250" />
+
+🌱 **Currently Learning:** MERN Stack (MongoDB, Express, React, Node.js)  
+🚀 **Projects:**  
+- **Trendu Repo** (Full-Stack Web App)  
+- **Floppy Fish** (Flappy Bird Spinoff)  
+- **Homie's Kitchen** (Recipe Web App)  
+
+🎯 **Goals:** Master full-stack development & contribute to open-source.  
 
 ---
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Saharsh&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saharsh&theme=radical" />
+### 🚀 **Tech Stack**
+#### 💻 **Languages & Frameworks**  
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+#### 🎨 **Frontend & Styling**  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+#### 🛢️ **Databases**  
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
@@ -28,5 +46,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-profile/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge)](https://yourportfolio.com/)
 
+---
 
-⭐ **Fun Fact:** I want to create my own Operating System one day! 🖥️⚡
+🔥 **Fun Fact:** I love building cool project & future os creater! 🚀
