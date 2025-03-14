@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/A6bWGFl.gif" width="250" />
+  <img src="https://camo.githubusercontent.com/a5e9c18e7f1a0431fd04228a283f222f87ff0c7423c071ab6afb7ce86ce4be9c/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966" width="250" />
 </p>
 
 🌱 **Currently Learning:** MERN Stack (MongoDB, Express, React, Node.js)  
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-#### 🛢️ **Databases**  
+#### 🟢 **Databases**  
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
