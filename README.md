@@ -21,7 +21,7 @@
 ---
 
 ### 🏆 GitHub Stats  
-[![trophy](https://github-profile-trophy.vercel.app/?username=siddharthswami23&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20)](https://github.com/siddharthswami23/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sde-saharsh&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20)](https://github.com/sde-saharsh/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthswami23&layout=compact&theme=vision-friendly-dark)](https://github.com/siddharthswami23/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sde-saharsh&layout=compact&theme=vision-friendly-dark)](https://github.com/sde-saharsh/github-readme-stats)
 
